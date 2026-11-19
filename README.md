@@ -108,6 +108,35 @@ Local application URL:
 
 Screenshots of the application, including the homepage, administrator login, donor registration, donor records, Spring Dependency Injection and Swing interface, will be included in the repository.
 
+### Homepage
+![Homepage](screenshots/Screenshot%202026-11-19%20194250.png)
+
+### Admin Login
+![Admin Login](screenshots/Screenshot%202026-11-19%20194303.png)
+
+### Donor List
+![Donor List](screenshots/Screenshot%202026-11-19%20194333.png)
+
+### Register Donor
+![Register Donor](screenshots/Screenshot%202026-11-19%20194353.png)
+
+### Edit Donor
+![Edit Donor](screenshots/Screenshot%202026-11-19%20194411.png)
+
+### Spring DI Output
+![Spring DI](screenshots/Screenshot%202026-11-19%20194608.png)
+
+### Swing GUI
+![Swing GUI](screenshots/Screenshot%202026-11-19%20194626.png)
+
+### Database Structure
+![Database Structure](screenshots/Screenshot%202026-11-19%20194803.png)
+
+![Screenshot 9](screenshots/Screenshot%202026-11-19%20194832.png)
+
+![Screenshot 10](screenshots/Screenshot%202026-11-19%20194908.png)
+
+
 ## 7. GitHub Repository
 
 https://github.com/yana-codes24/BloodBankManagementSystem
